@@ -1,2 +1,0 @@
-# git-command
-Git Command
